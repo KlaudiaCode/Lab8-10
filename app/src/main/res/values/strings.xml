@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3API</string>
+    <string-array name="criteria">
+        <item>Szukaj po aktorach</item>
+        <item>Szukaj po tytule</item>
+        <item>Szukaj po roku</item>
+    </string-array>
+</resources>
